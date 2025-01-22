@@ -52,20 +52,20 @@
 - 🇪🇸 **Español** - Nativo / Native
 - 🇬🇧 **Inglés** - A2+ (Intermedio / Intermediate)
 
-## <b>Let's Connect..!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-<ul>
-  <li>
-    <a href="https://www.linkedin.com/in/lucas-villegas-6834b9245" target="_blank">
-      <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/lucas-villegas-6834b9245">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Lev-93">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+    <a style="margin-left: 10px;" target="_blank" href="mailto:villegaslucas93@gmail.com">
+      <img src="https://img.icons8.com/doodle/40/000000/gmail-new.png">
     </a>
-  </li>
-  <li>
-    <a href="mailto:villegaslucas93@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
-  </li>
-</ul>
+   </div>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

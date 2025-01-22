@@ -18,7 +18,7 @@
 - 💻 **Dev trainee** - Continuously learning and developing
 - 🌍 **Open to job offers** - Seeking new opportunities for professional growth
 
-
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> **Skills**
 

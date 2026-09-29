@@ -13,7 +13,7 @@
   <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWVyb2Rlc2w4d3M0dG5yZDQ4cjI3b3p0M3VmYnJ5eDVob2hkbTVocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W4IY7zQdRh7Ow/giphy.gif" width="250px">
 </picture>
 
-- 🎓 **Computer Engineering Student (UNLaM)**
+- 🎓 **Computer Engineering**
 - 🤖 **RPA Developer** - Automating processes and optimizing workflows
 - 💻 **Dev trainee** - Continuously learning and developing
 - 🌍 **Open to job offers** - Seeking new opportunities for professional growth
@@ -61,7 +61,7 @@
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Lev-93">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-    <a style="margin-left: 10px;" target="_blank" href="mailto:villegaslucas93@gmail.com">
+    <a style="margin-left: 10px;" target="_blank" href="mailto:viluez93@gmail.com">
       <img src="https://img.icons8.com/doodle/40/000000/gmail-new.png">
     </a>
    </div>

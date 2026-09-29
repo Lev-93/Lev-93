@@ -9,10 +9,6 @@
 
 # **About Me** 😊
 
-<picture>
-  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWVyb2Rlc2w4d3M0dG5yZDQ4cjI3b3p0M3VmYnJ5eDVob2hkbTVocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W4IY7zQdRh7Ow/giphy.gif" width="250px">
-</picture>
-
 - 🎓 **Computer Engineering**
 - 🤖 **RPA Developer** - Automating processes and optimizing workflows
 - 💻 **Dev trainee** - Continuously learning and developing
